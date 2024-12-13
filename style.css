@@ -1,0 +1,162 @@
+
+.options ul li {
+  list-style-type: none;
+  display: inline;
+}
+.options ul li a{
+  text-decoration: none;
+  color: black;
+  margin-left:40px;
+  
+}
+.logo,.options{
+  display:inline-block;
+}
+.options{
+  position:absolute;
+  top:17px;
+  left:700px;
+}
+.text{
+  width: 500px;
+  height:100px;
+  position: absolute;
+  top: 750px;
+  left:600px;
+  line-height: 30px;
+  font-size: 18px;
+}
+.image{
+  width:1200px;
+  height:400px;
+}
+
+.right, .left{
+  display: inline-block;
+}
+.1,.2{
+  display:inline-block;
+}
+
+.m{
+  position: absolute;
+  top:590px;
+  left: 120px;
+}
+.a{
+  position: absolute;
+  top:640px;
+  left:90px;
+}
+
+.v{
+  position: absolute;
+  top: 815px;
+  left:120px;
+}
+
+.b{
+  position: absolute;
+  top:870px;
+  left: 90px;
+}
+
+.z{
+  position: absolute;
+  top: 1030px;
+  left:120px;
+}
+.c{
+  position:absolute;
+  top:1080px;
+  left: 90px;
+}
+.right{
+  position: absolute;
+  left:450px;
+  top:550px;
+  width:900px;
+  line-height: 27px;
+}
+.left{
+  margin-left: 50px;
+}
+.title{
+  color:green;
+  margin-left: 45px;
+}
+.m,.v,.z{
+  color: white;
+}
+.a,.b,.c{
+  color: darkslategrey;
+}
+.aside{
+  color: #f07c0f;
+  font-size: 30px;
+}
+
+.l{
+  position:absolute;
+  
+}
+.footer li{
+  list-style:none;
+ 
+}
+.footer .facebook{
+  list-style-image:url("images/facebook.png")
+}
+.footer .subscribe{
+  list-style-image:url("images/subscribe.jpg")
+}
+.footer .twitter{
+  list-style-image:url("images/twitter.png")
+}
+.footer .instagram{
+  list-style-image:url("images/insta.jpg")
+}
+
+p{
+  color: grey;
+}
+
+.place{
+  color: black;
+}
+.call{
+  color: black;
+}
+.top,.bottom{
+  display: inline-block;
+}
+.footer1{
+  background-color:rgb(93,128,44);
+  width:1160px;
+  height:280px;
+  margin-left:-430px;
+  padding-left:60px;
+  padding-top: 20px;
+  margin-top:40px;
+}
+.sect2{
+  background-image:url("images/bg-footer-item.jpg");
+   width:300px;
+  height:250px;
+  position:absolute;
+  top:730px;
+  left:0px;
+}
+
+.sect3{
+  background-image:url("images/bg-footer-item.jpg");
+   width:300px;
+  height:250px;
+  position:absolute;
+  top:730px;
+  left:400px;
+}
+
+.sect2 #lorem, .sect3 #ipsum{
+  color: white;
+}
